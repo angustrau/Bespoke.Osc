@@ -1,3 +1,3 @@
 [submodule "Bespoke.Common"]
 	path = Bespoke.Common
-	url = https://bitbucket.org/pvarcholik/bespoke.common
+	url = https://github.com/angustrau/Bespoke.Common.git
